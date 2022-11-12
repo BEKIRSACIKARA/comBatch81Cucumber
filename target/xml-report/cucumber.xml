@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="41.644">
-    <testcase classname="US014 Class Work" name="Kullanici ve Url Testi" time="41.407">
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="57.138">
+    <testcase classname="US014 Class Work" name="Kullanici ve Url Testi" time="56.281">
         <system-out>
             <![CDATA[Given kullanici "webUrl" anasayfasinda......................................passed
 When kullanici 3 saniye bekler..............................................passed
